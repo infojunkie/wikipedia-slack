@@ -1,0 +1,28 @@
+[{
+  "meta": {
+    "uri": "https://en.wikipedia.org/wiki/User_talk:Infojunkie71"
+  },
+  "user": "Infojunkie71",
+  "title": "Hello, world!",
+  "type": "edit",
+  "bot": false,
+  "minor": true
+}, {
+  "meta": {
+    "uri": "https://en.wikipedia.org/wiki/User_talk:Infojunkie71"
+  },
+  "user": "Infojunkie71",
+  "title": "Hello, world!",
+  "type": "edit",
+  "bot": true,
+  "minor": false
+}, {
+  "meta": {
+    "uri": "https://en.wikipedia.org/wiki/User_talk:Infojunkie71/fr"
+  },
+  "user": "Infojunkie71",
+  "title": "Hello, world!",
+  "type": "edit",
+  "bot": false,
+  "minor": false
+}]
